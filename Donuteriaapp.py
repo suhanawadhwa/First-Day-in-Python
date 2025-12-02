@@ -1,10 +1,10 @@
 import streamlit as st
 
 # Title of the app
-st.title("Papa's Donuteria Game Demo")
+st.title(Donuteria Game Demo")
 
 # Add some description for the app
-st.write("Welcome to the Papa's Donuteria game! In this demo, you can customize your donut.")
+st.write("Welcome to the Donuteria game! In this demo, you can customize your donut.")
 
 # Choose the donut base
 base = st.selectbox("Choose your donut base:", ["Plain", "Chocolate", "Strawberry", "Glazed"])
