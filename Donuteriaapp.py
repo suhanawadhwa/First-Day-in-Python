@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Title of the app
-st.title(Donuteria Game Demo")
+st.title("Donuteria Game Demo")
 
 # Add some description for the app
 st.write("Welcome to the Donuteria game! In this demo, you can customize your donut.")
